@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hostinger Next.js Deploy Reference',
-  description: 'Minimal Next.js app for Hostinger Web Apps Hosting deployment'
+  description: 'Minimal Next.js app for Hostinger Node.js web apps hosting deployment'
 }
 
 export default function RootLayout({ children }) {

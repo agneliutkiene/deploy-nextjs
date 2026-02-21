@@ -1,4 +1,4 @@
-# Deploy Next.js on Hostinger Web Apps Hosting
+# Deploy Next.js on Hostinger Node.js web apps hosting
 
 [![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/web-apps-hosting)
 
@@ -11,7 +11,7 @@
 
 ## Requirements
 
-- A Hostinger plan with Web Apps Hosting enabled
+- A Hostinger plan with Node.js web apps hosting enabled
 - A GitHub repository containing your Next.js app
 - Node.js 20 LTS recommended
 
@@ -24,7 +24,7 @@ npm run dev
 
 Open `http://localhost:3000`.
 
-## Deploy on Hostinger Web Apps Hosting
+## Deploy on Hostinger Node.js web apps hosting
 
 1. Push this app (or your own Next.js app) to GitHub.
 2. Log in to Hostinger hPanel, go to **Websites** in the sidebar, and click **Add Website**.
@@ -42,7 +42,7 @@ Open `http://localhost:3000`.
 ## Environment variables
 
 - Keep local defaults in `.env.local`.
-- Configure production values in Hostinger Web Apps Hosting settings.
+- Configure production values in Hostinger Node.js web apps hosting settings.
 - Never commit secrets.
 
 Example variables:
