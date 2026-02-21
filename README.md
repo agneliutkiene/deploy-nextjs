@@ -25,15 +25,17 @@ Open `http://localhost:3000`.
 ## Deploy on Hostinger Web Apps Hosting
 
 1. Push this app (or your own Next.js app) to GitHub.
-2. In Hostinger hPanel, open **Websites** -> **Web Apps** -> **Create application**.
-3. Connect the GitHub repository.
-4. Configure the app:
+2. Log in to Hostinger hPanel, go to **Websites** in the sidebar, and click **Add Website**.
+3. Choose **Node.js Apps**.
+4. Select **Import Git Repository**.
+5. Authorize GitHub access and select your repository.
+6. Review the auto-detected build settings and configure:
    - **Install command**: `npm ci`
    - **Build command**: `npm run build`
    - **Start command**: `npm run start -- -p $PORT`
    - **Node.js version**: `20`
-5. Add required environment variables in the Hostinger app settings.
-6. Trigger deployment.
+7. Add required environment variables in the Hostinger app settings.
+8. Click **Deploy**.
 
 ## Environment variables
 
