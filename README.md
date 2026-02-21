@@ -1,5 +1,7 @@
 # Deploy Next.js on Hostinger Web Apps Hosting
 
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/web-apps-hosting)
+
 ## What this repository provides
 
 - A minimal Next.js starter app
