@@ -1,7 +1,5 @@
 # Deploy Next.js on Hostinger Web Apps Hosting
 
-Official Hostinger reference for deploying a Next.js application on Hostinger Web Apps Hosting.
-
 ## What this repository provides
 
 - A minimal Next.js starter app
